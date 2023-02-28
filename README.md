@@ -1,7 +1,8 @@
 # algorithm_March
 Algorithm Study During March
+
+How To?
 -------
-How To?   
 1. 해결할 문제의 번호를 이름으로 한 폴더 생성 후 main에 push
 (BOJ 1234번 크리스마스 트리 OR PRO 160585 혼자서 하는 틱택토)
 
