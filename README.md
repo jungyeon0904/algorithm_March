@@ -20,8 +20,8 @@ Schedule
 1. 23-03-06(월) : BOJ 2468 안전 영역 (Silver 1)   
 https://www.acmicpc.net/problem/2468   
    
-2. 23-03-07(화) :    
-   
+2. 23-03-07(화) : BOJ 16198 에너지 모으기 (Silver 1)
+https://www.acmicpc.net/problem/16198   
    
 3. 23-03-08(수) : Programmers 가장 먼 노드 (Lv. 3) <br>
 https://school.programmers.co.kr/learn/courses/30/lessons/49189
