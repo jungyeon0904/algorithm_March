@@ -26,8 +26,8 @@ https://www.acmicpc.net/problem/16198
 3. 23-03-08(수) : Programmers 가장 먼 노드 (Lv. 3) <br>
 https://school.programmers.co.kr/learn/courses/30/lessons/49189
    
-4. 23-03-09(목) :   
-   
+4. 23-03-09(목) :  BOJ 6588 골드바흐의 추측 (Silver 1)
+https://www.acmicpc.net/problem/6588
     
 5. 23-03-10(금) : Programmers 양과 늑대 (Lv. 3)     
 https://school.programmers.co.kr/learn/courses/30/lessons/92343
