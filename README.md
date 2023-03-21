@@ -32,3 +32,7 @@ https://www.acmicpc.net/problem/6588
 5. 23-03-10(금) : Programmers 양과 늑대 (Lv. 3)     
 https://school.programmers.co.kr/learn/courses/30/lessons/92343
    
+
+**2주차**    
+4. 23-03-23(목) : BOJ 1092 배 (Gold 5)   
+https://www.acmicpc.net/problem/1092
