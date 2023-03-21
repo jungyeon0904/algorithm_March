@@ -34,8 +34,9 @@ https://school.programmers.co.kr/learn/courses/30/lessons/92343
    
 
 **2주차**  
-1. 23-03-20(월) : 
-
+1. 23-03-20(월) : BOJ 1012 유기농 배추 (Silver 2)   
+https://www.acmicpc.net/problem/1012   
+   
 2. 23-03-21(화) : BOJ 1388 바닥 장식 (Silver 4) <br>
 https://www.acmicpc.net/problem/1388
 
