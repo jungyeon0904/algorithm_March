@@ -33,6 +33,15 @@ https://www.acmicpc.net/problem/6588
 https://school.programmers.co.kr/learn/courses/30/lessons/92343
    
 
-**2주차**    
+**2주차**  
+1. 23-03-20(월) : 
+
+2. 23-03-21(화) : BOJ 1388 바닥 장식 (Silver 4)
+https://www.acmicpc.net/problem/1388
+
+3. 23-03-22(수) : 
+
 4. 23-03-23(목) : BOJ 1092 배 (Gold 5)   
 https://www.acmicpc.net/problem/1092
+
+5. 23-03-24(금) : 
