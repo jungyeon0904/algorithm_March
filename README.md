@@ -37,7 +37,6 @@ https://school.programmers.co.kr/learn/courses/30/lessons/92343
 1. 23-03-20(월) : 
 
 2. 23-03-21(화) : BOJ 1388 바닥 장식 (Silver 4)
-
 https://www.acmicpc.net/problem/1388
 
 3. 23-03-22(수) : 
